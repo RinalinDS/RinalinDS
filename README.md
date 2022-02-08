@@ -2,7 +2,7 @@
 - 👀 I’m interested in junior front end developer position
 - 🌱 I’m currently learning React/Redux/JS/TS/CSS/HTTML
 - 💞️ I’m looking to collaborate on something interesting
-- 📫 How to reach me telegram id @Rinalin1
+- 📫 How to reach me telegram id @RinalinDS
 
 <!---
 RinalinDS/RinalinDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
