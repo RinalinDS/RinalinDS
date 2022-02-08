@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RinalinDS
 - 👀 I’m interested in junior front end developer position
 - 🌱 I’m currently learning React/Redux/JS/TS/CSS/HTTML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me telegram id rinalin1
 
 <!---
