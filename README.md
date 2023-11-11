@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denis Pilyutin</h1>
 <h3 align="center">A passionate frontend developer from Ukraine. Front-end Architect in near future</h3>
 
-- 🌱 I’m currently learning **React, Redux Toolkit, GraphQL**
+- 🌱 I’m currently working with next stack **Typescript, React, React Query, MUI, Zod, React-router-dom, react-table**
 
 - 👨‍💻 All of my projects are available at [https://rinalinds.github.io/portfolio/](https://rinalinds.github.io/portfolio/)
 
