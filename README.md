@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with next stack **Typescript, React, Next.js React Query, React-hook-form, Tanstack Router, React Router, Zustand, RTK, and others and so on**
 
-- 📫 How to reach me **denispilyutin@gmail.com**  Telegram - [t.me/RinalinDS](t.me/RinalinDS)
+- 📫 How to reach me **denispilyutin@gmail.com**  Telegram - [t.me/RinalinDS]([t.me/RinalinDS](https://t.me/RinalinDS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
