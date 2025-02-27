@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Denis Pilyutin</h1>
 <h3 align="center">A passionate frontend developer from Ukraine. 4+ years of experience</h3>
 
-- 🌱 I’m currently working with next stack **Typescript, React, React Query, MUI, Zod, React-router-dom, react-table**
+- 🌱 I’m currently working with next stack **Typescript, React, Next.js React Query, React-hook-form, Tanstack Router, React Router, Zustand, RTK, and others and so on**
 
-- 👨‍💻 All of my projects are available at [https://rinalinds.github.io/portfolio/](https://rinalinds.github.io/portfolio/)
-
-
-- 📫 How to reach me **denispilyutin@gmail.com**  Telegram - @RinalinDS
+- 📫 How to reach me **denispilyutin@gmail.com**  Telegram - [t.me/RinalinDS](t.me/RinalinDS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
