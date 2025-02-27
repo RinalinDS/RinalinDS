@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Denis Pilyutin</h1>
-<h3 align="center">A passionate frontend developer from Ukraine. Front-end Architect in near future</h3>
+<h3 align="center">A passionate frontend developer from Ukraine. 4+ years of experience</h3>
 
 - 🌱 I’m currently working with next stack **Typescript, React, React Query, MUI, Zod, React-router-dom, react-table**
 
 - 👨‍💻 All of my projects are available at [https://rinalinds.github.io/portfolio/](https://rinalinds.github.io/portfolio/)
 
-- 💬 Ask me about **React**
 
-- 📫 How to reach me **denispilyutin@gmail.com**
+- 📫 How to reach me **denispilyutin@gmail.com**  Telegram - @RinalinDS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
